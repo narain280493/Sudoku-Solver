@@ -1,0 +1,1 @@
+To run the sudoku solver, run sudoku.m and select your choice. Everything else will be called from here on. 
